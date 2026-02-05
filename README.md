@@ -1,11 +1,11 @@
-# 🚗 Smart Parking Detection System
+🚗 Smart Parking Detection System
 
 An AI-powered smart parking system that detects **free and occupied parking slots**
 from **images, videos, and live webcam feed** using **Computer Vision and YOLO**.
 
 ---
 
-## 🔥 Features
+🔥 Features
 - 📷 Image-based parking detection
 - 🎥 Video-based parking detection
 - 📡 Real-time webcam feed
@@ -16,7 +16,7 @@ from **images, videos, and live webcam feed** using **Computer Vision and YOLO**
 
 ---
 
-## 🧠 Tech Stack
+🧠 Tech Stack
 - Python
 - OpenCV
 - YOLOv8 (Ultralytics)
@@ -25,7 +25,7 @@ from **images, videos, and live webcam feed** using **Computer Vision and YOLO**
 
 ---
 
-## 🏗️ System Architecture
+🏗️ System Architecture
 
 User Interface
     ↓
@@ -38,4 +38,13 @@ Vehicle Detection (YOLO)
 Slot Occupancy Logic
     ↓
 Visual Output
+
+
+---
+
+📸 Sample Outputs
+
+Image Mode – Free vs Occupied slots  
+Video Mode – Smooth Detection  
+Live Webcam Mode – Real-time
 
